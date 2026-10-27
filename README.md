@@ -1,21 +1,8 @@
-Python Data Analysis Project
-
-About
-
-This project analyzes student marks using Python and Pandas.
-
-Features
-
-- Displays student marks
-- Calculates average marks
-- Identifies the student with the highest marks
-
-Technologies Used
-
-- Python
-- Pandas
-
-Author
-
-Vaishnavi Raut# python-data-analysis-project
-My first Python data analysis project
+Project Title: Student Performance Analysis
+Description: This project analyzes student marks using Python and Pandas.
+Features:
+Displays student names and marks.
+Calculates average marks.
+Identifies the highest and lowest marks.
+Displays the topper's name and marks.
+Technologies: Python, Pandas
